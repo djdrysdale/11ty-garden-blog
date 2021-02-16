@@ -5,6 +5,6 @@ title: About these notes
 These are my notes.
 
 [[bar]]
-[[Advertising is defensive]]
+[[testtime]]
 
 This concludes our test.
