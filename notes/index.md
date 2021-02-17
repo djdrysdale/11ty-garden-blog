@@ -2,9 +2,49 @@
 title: About these notes
 ---
 # About these Notes
-These are my notes.
 
-[[bar]]
-[[testtime]]
+## Creativity and ideas
+- [[§ Creativity]]
+	- [[≈ Johnson - Where Good Ideas Come From]]
+- [[§ Innovation]]
+	- [[≈ Viki - Pirates in the Navy]]
 
-This concludes our test.
+## Digital product, design, and UX
+- [[§ Research]]
+	- [[≈ Ladner - Mixed Methods]]
+	- [[≈ Madsbjerg - Sensemaking]]
+	- [[§ Personas]]
+- [[≈ Muller - The Tyranny of Metrics]]
+- [[§ UX Design]]
+
+## Learning and metacognition
+- [[§ Personal knowledge management]]
+	- [[≈ Ahrens - How to Take Smart Notes]]
+	- [[§ Zettelkasten]]
+- [[Varol - Think Like a Rocket Scientist]]
+
+## Marketing
+- [[§ Branding]]
+
+## Narrative and language
+- [[≈ King and Kay - Radical Uncertainty]]
+- [[≈ Lakoff and Johnson - Metaphors We Live By]]
+- [[≈ Shiller - Narrative Economics]]
+
+## Strategy
+- [[§ Digital transformation]]
+- [[§ Strategy]]
+- [[§ Resilient strategy]]
+
+## Book notes
+- [[≈ Ahrens - How to Take Smart Notes]]
+- [[≈ Johnson - Where Good Ideas Come From]]
+- [[≈ King and Kay - Radical Uncertainty]]
+- [[≈ Ladner - Mixed Methods]]
+- [[≈ Lakoff and Johnson - Metaphors We Live By]]
+- [[≈ Madsbjerg - Sensemaking]]
+- [[≈ Muller - The Tyranny of Metrics]]
+- [[≈ Shiller - Narrative Economics]]
+- [[Varol - Think Like a Rocket Scientist]]
+- [[≈ Viki - Pirates in the Navy]]
+- [[≈ Webb - The Signals are Talking]]
