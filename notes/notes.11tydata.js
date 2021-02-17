@@ -9,7 +9,7 @@ module.exports = {
         backlinks: (data) => {
             const notes = data.collections.notes;
             const currentFileSlug = data.page.fileSlug;
-            
+
             const stripYaml = (content) => {
                 if(content.startsWith("---")) {
                     return content.substr(content.indexOf("---", 3) + 3);
@@ -39,7 +39,7 @@ module.exports = {
             }).map(n => {
                 // Construct return object
                 const noteContent = stripYaml(n.template.inputContent);
-                
+
                 let preview = noteContent;
 
                 if(noteContent > 240) {
